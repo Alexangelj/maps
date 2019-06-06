@@ -1,2 +1,2 @@
-# maps
-Map your studying.
+## 
+Organize your study periods.
